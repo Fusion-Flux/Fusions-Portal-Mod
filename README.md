@@ -1,3 +1,19 @@
+# Portal Cubed is being Rewritten!
+
+ Due to this, this repository is now unused in favor of https://github.com/Fusion-Flux/Portal-Cubed-Rewrite and will not be recieving any updates.
+
+If you ended up on this page looking for the most recent version/a playable build, the latest pre-rewrite (v2.3.0) release can be found [in our discord](https://discord.gg/YyrsVRNBA8).  
+
+
+ **IT IS NOT RECOMMENDED TO USE THE VERSIONS IN THE RELEASES TAB** - These exist purely for archival reasons and to not break certain modpacks (such as BlanketCon 23) that pull from them.  They are more issue-prone and tend to have less compatibility with other common mods, so you will not receive any support if you use them.
+
+
+ 
+
+ 
+
+ 
+-------------------------
 # Portal Cubed
 
 <p align="center">
